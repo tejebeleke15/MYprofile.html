@@ -1,0 +1,67 @@
+body{
+	background-image: url('https://geospatialmedia.s3.amazonaws.com/wp-content/uploads/2018/04/Paris_Model_Overview_straight.jpg');
+	background-size: cover;
+    background-attachment: fixed;
+	
+	padding:0 0 0 0;
+	margin:0 0 0 0;
+}
+.topbar-container{
+	background-color: #98ded9;
+	position:absolute;
+	top:0px;
+	margin: 0px;
+	height:70px;
+	width:100%;
+}
+.topbar{
+	
+	color:white;
+	font-family:calibri;
+	font-size:30px;
+	font-weight:600;
+	height:50px;
+	position: absolute;
+	padding-left:10%;
+	top:0px;
+}
+
+
+.greeting{
+	margin: 0 auto;
+	color: white;
+	margin-top: 100px;
+	margin-bottom: 20px;
+	background-color:grey;
+	background: rgba(95, 158, 160, 0.5);
+	text-align:center;
+	font-family: calibri;
+	font-size:40px;
+	width: 600px;
+	padding-top:9%;
+	padding-bottom:9%;
+}
+.button{
+	text-align:center;
+}
+
+a{
+	border: none;
+	text-decoration: none;
+	border-radius: 5px;
+	outline: 0;
+	display: inline-block;
+	padding: 10px;
+	color: white;
+	background-color: #65d6ce;
+	text-align: center;
+	cursor: pointer;
+	font-size: 20px;
+}
+a:hover{
+  opacity: 0.9;
+}
+    
+	
+	
+
